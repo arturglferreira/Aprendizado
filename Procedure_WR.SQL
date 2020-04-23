@@ -1,0 +1,5 @@
+USE MASTER
+GO
+
+select * from SYS.OBJECTS
+GO
